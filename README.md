@@ -33,9 +33,6 @@ Este é um projeto onde explorei e aprendi mais sobre o desenvolvimento de aplic
 5. Execute o comando para iniciar o aplicativo e o banco de dados:
    -docker-compose up
 
-6. Acesse a aplicação em seu navegador utilizando o endereço:
-   -http://localhost:8080
-
 
 
 
